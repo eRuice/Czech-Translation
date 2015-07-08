@@ -1,3 +1,6 @@
+Čau zabijáci, rozhodl jsem se k přepisování korejského textu, aniž bychom vytvářeli nový soubor. (Otevřu si anglický překlad a přepisuju korejský)
+
+#ORIGINAL TEXT
 ##NOTICE (Updated 07-07-2015)
 
 1. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. **(NEW)**
